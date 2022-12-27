@@ -1,8 +1,11 @@
-# smart-board (smart-board)
+# SCHEDULE DASHBOARD
 
-a smart board screen for scheduling venue periods and stating which occupied 
+-> Create rooms,
+-> Add the given room schedules
+-> Update and delete the given schedules
 
 ## Install the dependencies
+
 ```bash
 yarn
 # or
@@ -10,32 +13,7 @@ npm install
 ```
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
+
 ```bash
 quasar dev
 ```
-
-
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
-
-
-### Format the files
-```bash
-yarn format
-# or
-npm run format
-```
-
-
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
