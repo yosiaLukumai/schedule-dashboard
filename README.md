@@ -1,7 +1,7 @@
 # SCHEDULE DASHBOARD
 
-Create rooms 
-Add the given room schedules
+Create rooms  
+Add the given room schedules  
 Update and delete the given schedules
 
 ## Install the dependencies
